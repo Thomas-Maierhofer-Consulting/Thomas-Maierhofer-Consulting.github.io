@@ -1,0 +1,9 @@
+# Heading 1
+
+
+## Visual Studio Code Support
+
+### Install asciidoctor extension 
+Type [Ctrl]-[p] and paste:
+ext install asciidoctor.asciidoctor-vscode
+
